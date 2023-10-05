@@ -1,0 +1,6 @@
+[submodule "quiz"]
+	path = quiz
+	url = https://github.com/shishir-polygon/quiz
+[submodule "quiz-docker"]
+	path = quiz-docker
+	url = https://github.com/shishir-polygon/quiz-docker
